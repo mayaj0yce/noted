@@ -1,2 +1,0 @@
-# noted
-note taking app
