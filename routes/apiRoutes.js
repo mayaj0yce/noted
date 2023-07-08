@@ -14,6 +14,7 @@ router.post('/api/notes', (req, res) => {
 })
 module.exports = router 
 
+// db\db.json
 // enable user to modify db.json CRUD
 
 //google express CRUD routes

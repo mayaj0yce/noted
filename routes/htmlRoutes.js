@@ -8,7 +8,7 @@ router.get('/notes', (req, res) => {
 })
 router.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, '../public/index.html'))
-  
+  //returns to the index.html when anything else is used
 })
 
 module.exports = router 
