@@ -13,7 +13,7 @@ The routes are in both the server.js file and the routes folder.
 
 ## GITHUB 
 
-[Git Hub url]( )
+[Git Hub url](https://github.com/mayaj0yce/noted.git)
 
 
 
